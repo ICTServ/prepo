@@ -1,6 +1,6 @@
 {
     "site": {
-        "title": "Primo",
+        "title": "Ameto",
         "favicon": {
             "alt": "",
             "src": "https://static.ameto.io/favicon.png",
@@ -10,7 +10,7 @@
         "description": "Visual CMS editor.",
         "_meta": {
             "id": "1a9f29e7-b37e-4a46-adcf-49d3b854ed8a",
-            "name": "Primo Landing Page",
+            "name": "Ameto Landing Page",
             "url": "primo-landing-page",
             "created_at": "2023-03-27T14:25:39.819961+00:00"
         }
