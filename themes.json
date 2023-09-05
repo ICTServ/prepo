@@ -1,17 +1,17 @@
 {
     "site": {
-        "title": "Ameto",
+        "title": "Primo",
         "favicon": {
             "alt": "",
-            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1680814436263_p_%20Mark%20in%20App%20Icon.png",
-            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1680814436263_p_%20Mark%20in%20App%20Icon.png",
+            "src": "https://static.ameto.io/favicon.png",
+            "url": "https://static.ameto.io/favicon.png",
             "size": 8
         },
-        "description": "Ameto is a visual CMS that makes it a blast to build pages, manage content, and edit code - one block at a time.",
+        "description": "Visual CMS editor.",
         "_meta": {
             "id": "1a9f29e7-b37e-4a46-adcf-49d3b854ed8a",
-            "name": "Ameto Landing Page",
-            "url": "Ameto-landing-page",
+            "name": "Primo Landing Page",
+            "url": "primo-landing-page",
             "created_at": "2023-03-27T14:25:39.819961+00:00"
         }
     },
@@ -52,7 +52,7 @@
                 {
                     "id": "",
                     "name": "Minimal",
-                    "repo": "mateomorris/theme-minimal",
+                    "repo": "theme-minimal",
                     "price": "0",
                     "price_id": "",
                     "available": true,
@@ -60,24 +60,24 @@
                         "html": "",
                         "markdown": ""
                     },
-                    "preview_url": "https://theme-minimal.vercel.app/",
+                    "preview_url": "https://static.ameto.io/themes/theme-minimal",
                     "screenshots": {
                         "mobile": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683438280856Screenshot%202023-05-07%20at%201.44.35%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683438280856Screenshot%202023-05-07%20at%201.44.35%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
                             "size": 67
                         },
                         "tablet": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683438272930Screenshot%202023-05-07%20at%201.44.27%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683438272930Screenshot%202023-05-07%20at%201.44.27%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
                             "size": 66
                         },
                         "desktop": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683438261409Screenshot%202023-05-07%20at%201.44.16%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683438261409Screenshot%202023-05-07%20at%201.44.16%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
                             "size": 73
                         }
                     },
@@ -86,7 +86,7 @@
                 {
                     "id": "",
                     "name": "Blog",
-                    "repo": "mateomorris/theme-blog",
+                    "repo": "theme-blog",
                     "price": "0",
                     "price_id": "",
                     "available": true,
@@ -94,24 +94,24 @@
                         "html": "",
                         "markdown": ""
                     },
-                    "preview_url": "https://theme-blog-chi.vercel.app/",
+                    "preview_url": "https://static.ameto.io/themes/theme-blog",
                     "screenshots": {
                         "mobile": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1688091129808Screenshot%202023-06-29%20at%2010.11.37%20PM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1688091129808Screenshot%202023-06-29%20at%2010.11.37%20PM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
                             "size": 57
                         },
                         "tablet": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1688091147572Screenshot%202023-06-29%20at%2010.09.57%20PM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1688091147572Screenshot%202023-06-29%20at%2010.09.57%20PM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
                             "size": 232
                         },
                         "desktop": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1688091165545Screenshot%202023-06-29%20at%2010.09.22%20PM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1688091165545Screenshot%202023-06-29%20at%2010.09.22%20PM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
                             "size": 253
                         }
                     },
@@ -120,7 +120,7 @@
                 {
                     "id": "",
                     "name": "Startup",
-                    "repo": "mateomorris/Theme-Startup",
+                    "repo": "Theme-Startup",
                     "price": "0",
                     "price_id": "",
                     "available": true,
@@ -128,24 +128,24 @@
                         "html": "<p>Use this theme to create a compelling landing page for your tech startup, product or service.</p>",
                         "markdown": "Use this theme to create a compelling landing page for your tech startup, product or service."
                     },
-                    "preview_url": "https://startup-theme-mateomorris.vercel.app/",
+                    "preview_url": "https://static.ameto.io/themes/Theme-Startup",
                     "screenshots": {
                         "mobile": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382061592Screenshot%202023-05-06%20at%2010.07.33%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382061592Screenshot%202023-05-06%20at%2010.07.33%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
                             "size": 105
                         },
                         "tablet": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382048286Screenshot%202023-05-06%20at%2010.07.23%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382048286Screenshot%202023-05-06%20at%2010.07.23%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
                             "size": 87
                         },
                         "desktop": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382029702Screenshot%202023-05-06%20at%2010.07.04%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382029702Screenshot%202023-05-06%20at%2010.07.04%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
                             "size": 156
                         }
                     },
@@ -154,7 +154,7 @@
                 {
                     "id": "",
                     "name": "Nonprofit",
-                    "repo": "mateomorris/Theme-nonprofit",
+                    "repo": "Theme-nonprofit",
                     "price": "0",
                     "price_id": "",
                     "available": true,
@@ -162,24 +162,24 @@
                         "html": "<p>This theme is designed for organizations, projects, or initiatives to highlight their mission and to showcase their programs and activities. It also includes a blog for sharing articles and updates related to their cause. With this theme you can create a professional, modern website that helps you engage with your audience and support your mission.</p>",
                         "markdown": "This theme is designed for organizations, projects, or initiatives to highlight their mission and to showcase their programs and activities. It also includes a blog for sharing articles and updates related to their cause. With this theme you can create a professional, modern website that helps you engage with your audience and support your mission.\n\n"
                     },
-                    "preview_url": "https://nonprofit.primo.so",
+                    "preview_url": "https://static.ameto.io/themes/Theme-nonprofit",
                     "screenshots": {
                         "mobile": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382265302Screenshot%202023-05-06%20at%2010.10.59%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382265302Screenshot%202023-05-06%20at%2010.10.59%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
                             "size": 500
                         },
                         "tablet": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382226362Screenshot%202023-05-06%20at%2010.10.20%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382226362Screenshot%202023-05-06%20at%2010.10.20%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
                             "size": 461
                         },
                         "desktop": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382215300Screenshot%202023-05-06%20at%2010.10.10%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382215300Screenshot%202023-05-06%20at%2010.10.10%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
                             "size": 509
                         }
                     },
@@ -188,7 +188,7 @@
                 {
                     "id": "",
                     "name": "Design Agency",
-                    "repo": "mateomorris/theme-agency",
+                    "repo": "theme-agency",
                     "price": "0",
                     "price_id": "",
                     "available": true,
@@ -196,24 +196,24 @@
                         "html": "<p>This theme was designed for agencies and freelancers to share their services and attract new clients. It includes 5 unique pages to communicate your agency's brand and work quality.</p>",
                         "markdown": "This theme was designed for agencies and freelancers to share their services and attract new clients. It includes 5 unique pages to communicate your agency's brand and work quality."
                     },
-                    "preview_url": "https://designagency.primo.so",
+                    "preview_url": "https://static.ameto.io/themes/theme-agency",
                     "screenshots": {
                         "mobile": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382159904Screenshot%202023-05-06%20at%2010.09.14%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382159904Screenshot%202023-05-06%20at%2010.09.14%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
                             "size": 264
                         },
                         "tablet": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382151193Screenshot%202023-05-06%20at%2010.09.06%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382151193Screenshot%202023-05-06%20at%2010.09.06%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
                             "size": 454
                         },
                         "desktop": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382141503Screenshot%202023-05-06%20at%2010.08.56%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382141503Screenshot%202023-05-06%20at%2010.08.56%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
                             "size": 502
                         }
                     },
@@ -222,7 +222,7 @@
                 {
                     "id": "",
                     "name": "Portfolio",
-                    "repo": "mateomorris/theme-portfolio",
+                    "repo": "theme-portfolio",
                     "price": "0",
                     "price_id": "",
                     "available": true,
@@ -230,24 +230,24 @@
                         "html": "<p>Showcase your projects and contact information with this minimal one-pager.</p>",
                         "markdown": "Showcase your projects and contact information with this minimal one-pager."
                     },
-                    "preview_url": "https://portfolio-theme-mateomorris.vercel.app/",
+                    "preview_url": "https://static.ameto.io/themes/theme-portfolio",
                     "screenshots": {
                         "mobile": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382357596Screenshot%202023-05-06%20at%2010.12.32%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382357596Screenshot%202023-05-06%20at%2010.12.32%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
                             "size": 67
                         },
                         "tablet": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382348974Screenshot%202023-05-06%20at%2010.12.23%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382348974Screenshot%202023-05-06%20at%2010.12.23%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
                             "size": 69
                         },
                         "desktop": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382338025Screenshot%202023-05-06%20at%2010.12.12%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382338025Screenshot%202023-05-06%20at%2010.12.12%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
                             "size": 89
                         }
                     },
@@ -256,7 +256,7 @@
                 {
                     "id": "",
                     "name": "Bakery",
-                    "repo": "mateomorris/theme-bakery",
+                    "repo": "theme-bakery",
                     "price": "0",
                     "price_id": "",
                     "available": true,
@@ -264,24 +264,24 @@
                         "html": "<p>This theme is ideal for for bakeries, cake shops, and cafes that want to promote their store and products. Some of the components inside include a contact form, a high quality design system you can customize to your brand, eye-catching graphics, and a gallery/testimonials slider.</p>",
                         "markdown": "This theme is ideal for for bakeries, cake shops, and cafes that want to promote their store and products. Some of the components inside include a contact form, a high quality design system you can customize to your brand, eye-catching graphics, and a gallery/testimonials slider."
                     },
-                    "preview_url": "https://sprinkles.primo.so/",
+                    "preview_url": "https://static.ameto.io/themes/theme-bakery",
                     "screenshots": {
                         "mobile": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382789060Screenshot%202023-05-06%20at%2010.19.44%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382789060Screenshot%202023-05-06%20at%2010.19.44%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
                             "size": 238
                         },
                         "tablet": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382780746Screenshot%202023-05-06%20at%2010.19.35%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382780746Screenshot%202023-05-06%20at%2010.19.35%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
                             "size": 420
                         },
                         "desktop": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382769650Screenshot%202023-05-06%20at%2010.19.24%20AM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683382769650Screenshot%202023-05-06%20at%2010.19.24%20AM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
                             "size": 311
                         }
                     },
@@ -290,7 +290,7 @@
                 {
                     "id": "",
                     "name": "Finance Service",
-                    "repo": "mateomorris/Theme-Finance",
+                    "repo": "Theme-Finance",
                     "price": "0",
                     "price_id": "",
                     "available": true,
@@ -298,24 +298,24 @@
                         "html": "",
                         "markdown": ""
                     },
-                    "preview_url": "",
+                    "preview_url": "https://static.ameto.io/themes/Theme-Finance",
                     "screenshots": {
                         "mobile": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683079992053Screenshot%202023-05-02%20at%2010.13.00%20PM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683079992053Screenshot%202023-05-02%20at%2010.13.00%20PM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
                             "size": 95
                         },
                         "tablet": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683079964659Screenshot%202023-05-02%20at%2010.12.36%20PM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683079964659Screenshot%202023-05-02%20at%2010.12.36%20PM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
                             "size": 449
                         },
                         "desktop": {
                             "alt": "",
-                            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683079947938Screenshot%202023-05-02%20at%2010.12.22%20PM.png",
-                            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1683079947938Screenshot%202023-05-02%20at%2010.12.22%20PM.png",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
                             "size": 475
                         }
                     },
