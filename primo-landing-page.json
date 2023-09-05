@@ -1,0 +1,391 @@
+{
+    "site": {
+        "title": "Ameto",
+        "favicon": {
+            "alt": "",
+            "src": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1680814436263_p_%20Mark%20in%20App%20Icon.png",
+            "url": "https://dbfnrqvkgwkjkzqgnfrd.supabase.co/storage/v1/object/public/images/1a9f29e7-b37e-4a46-adcf-49d3b854ed8a/1680814436263_p_%20Mark%20in%20App%20Icon.png",
+            "size": 8
+        },
+        "description": "Ameto is a visual CMS that makes it a blast to build pages, manage content, and edit code - one block at a time.",
+        "_meta": {
+            "id": "1a9f29e7-b37e-4a46-adcf-49d3b854ed8a",
+            "name": "Ameto Landing Page",
+            "url": "Ameto-landing-page",
+            "created_at": "2023-03-27T14:25:39.819961+00:00"
+        }
+    },
+    "page": {
+        "_meta": {
+            "id": "163d86cd-b4f7-471a-8731-72a0d2de2099",
+            "name": "Home Page",
+            "url": "index",
+            "created_at": "2023-03-27T14:25:39.985642+00:00",
+            "subpages": [
+                {
+                    "id": "705ed92c-7e0f-417c-8d63-c22b957575ee",
+                    "name": "Cloud",
+                    "url": "cloud",
+                    "created_at": "2023-06-14T19:14:54.608+00:00"
+                },
+                {
+                    "id": "6684f43a-4190-4087-8310-9b38c2e945fd",
+                    "name": "Contributions",
+                    "url": "contributions",
+                    "created_at": "2023-06-13T04:11:48.339+00:00"
+                },
+                {
+                    "id": "31982a7d-be30-4ac1-a8dc-e49071978cc1",
+                    "name": "About",
+                    "url": "about",
+                    "created_at": "2023-06-12T22:49:40.116+00:00"
+                },
+                {
+                    "id": "414706e2-4344-4e36-a00d-6d97038d8ece",
+                    "name": "Changelog",
+                    "url": "changelog",
+                    "created_at": "2023-03-28T01:55:12.342781+00:00"
+                },
+                {
+                    "id": "4872492a-4b96-4a09-87d0-6564c7da5030",
+                    "name": "Themes",
+                    "url": "themes",
+                    "created_at": "2023-04-09T21:51:32.693064+00:00"
+                },
+                {
+                    "id": "1c6b4a49-a737-43c2-989f-b3c542cf7bf9",
+                    "name": "Blog",
+                    "url": "blog",
+                    "created_at": "2023-04-21T00:17:44.184261+00:00"
+                },
+                {
+                    "id": "95747f0b-8ef5-4b9e-9f5a-6515749680ea",
+                    "name": "Legal",
+                    "url": "legal",
+                    "created_at": "2023-04-03T02:29:25.759861+00:00"
+                },
+                {
+                    "id": "962af88a-fd20-4f6e-a2cf-10bd1d71d4cd",
+                    "name": "Roadmap",
+                    "url": "roadmap",
+                    "created_at": "2023-07-20T05:28:14.377+00:00"
+                },
+                {
+                    "id": "cfd07552-813b-48c3-b22e-0f1a7191b02a",
+                    "name": "Library Contribution",
+                    "url": "library-contribution",
+                    "created_at": "2023-06-13T04:23:11.207+00:00"
+                },
+                {
+                    "id": "012d5639-8df7-48df-9c12-8ce1e00c3498",
+                    "name": "404",
+                    "url": "404",
+                    "created_at": "2023-04-28T14:57:48.75737+00:00"
+                },
+                {
+                    "id": "b82294b8-65e0-4905-9c21-778c71143966",
+                    "name": "Company",
+                    "url": "company",
+                    "created_at": "2023-05-09T05:55:26.459+00:00"
+                },
+                {
+                    "id": "b120049d-e959-45dc-9cf0-111f24ab43a4",
+                    "name": "Templates",
+                    "url": "templates",
+                    "created_at": "2023-08-02T18:07:48.196+00:00"
+                },
+                {
+                    "id": "8c2dfe96-411b-40bb-839e-0aca27e8ec1b",
+                    "name": "White Glove",
+                    "url": "white-glove",
+                    "created_at": "2023-06-30T14:49:40.274+00:00"
+                }
+            ]
+        }
+    },
+    "sections": [
+        {
+            "_meta": {
+                "id": "caf0af11-e039-41a5-a9b8-242e7785befc",
+                "symbol": "c3d5f2ea-9215-46f4-a681-66083693301b",
+                "created_at": "2023-03-27T18:30:22.554527+00:00"
+            }
+        },
+        {
+            "heading": {
+                "html": "<p>Primo is a visual CMS that makes it a blast to build <strong>pages</strong>, manage <strong>content</strong>, and edit <strong>code</strong> - one block at a time.</p>",
+                "markdown": "Primo is a visual CMS that makes it a blast to build **pages**, manage **content**, and edit **code** \\- one block at a time.\n\n"
+            },
+            "video_id": "820725171",
+            "subheading": {
+                "html": "",
+                "markdown": ""
+            },
+            "intro_video_id": "Est laboris velit",
+            "primary_button": {
+                "url": "https://try.primocms.org/Theme-Startup",
+                "label": "Try it",
+                "active": false
+            },
+            "secondary_button": {
+                "url": "https://docs.primocms.org/getting-started",
+                "label": "Get started",
+                "active": false
+            },
+            "_meta": {
+                "id": "885d7628-0612-43ce-8832-6dce430b0e83",
+                "symbol": "0d6c1431-ead0-4166-8fcc-e9cd9cbf06f3",
+                "created_at": "2023-03-27T18:26:44.547606+00:00"
+            }
+        },
+        {
+            "heading": "Welcome to a better way to build websites",
+            "teasers": [
+                {
+                    "body": {
+                        "html": "<p>Build your site's pages by dragging and dropping your blocks directly onto the page, unencumbered by overwhelming design options.</p>",
+                        "markdown": "Build your site's pages by dragging and dropping your blocks directly onto the page, unencumbered by overwhelming design options.\n\n"
+                    },
+                    "link": {
+                        "url": "/",
+                        "label": "",
+                        "active": false
+                    },
+                    "image": {
+                        "alt": "",
+                        "src": "https://kdtzsoeklezpgshpzqtf.supabase.co/storage/v1/object/public/images/7c1dc1a3-c9eb-4364-b31b-951ecfc2641d/1682111950401Screen%20Shot%202023-04-21%20at%205.17.27%20PM.png",
+                        "url": "https://kdtzsoeklezpgshpzqtf.supabase.co/storage/v1/object/public/images/7c1dc1a3-c9eb-4364-b31b-951ecfc2641d/1682111950401Screen%20Shot%202023-04-21%20at%205.17.27%20PM.png",
+                        "size": 251
+                    },
+                    "title": "Drag-n-drop page building",
+                    "video": ""
+                },
+                {
+                    "body": {
+                        "html": "<p>Update your text, images, and links directly on the page or open up the Fields view to manage your content from a structured view.</p>",
+                        "markdown": "Update your text, images, and links directly on the page or open up the Fields view to manage your content from a structured view.\n\n"
+                    },
+                    "link": {
+                        "url": "",
+                        "label": "",
+                        "active": false
+                    },
+                    "image": {
+                        "alt": "",
+                        "url": "https://kdtzsoeklezpgshpzqtf.supabase.co/storage/v1/object/public/images/7c1dc1a3-c9eb-4364-b31b-951ecfc2641d/Screen%20Shot%202023-04-21%20at%205.22.39%20PM.png1682112222228"
+                    },
+                    "title": "Visual content editing",
+                    "video": ""
+                },
+                {
+                    "body": {
+                        "html": "<p>Access each block's code with a click - right from your browser. And since each block is a <a href=\"https://svelte.dev\">Svelte</a> component, there's no limit to what you can make.</p>",
+                        "markdown": "Access each block's code with a click - right from your browser. And since each block is a [Svelte](https://svelte.dev) component, there's no limit to what you can make.\n"
+                    },
+                    "link": {
+                        "url": "",
+                        "label": "",
+                        "active": false
+                    },
+                    "image": {
+                        "alt": "",
+                        "url": "https://kdtzsoeklezpgshpzqtf.supabase.co/storage/v1/object/public/images/7c1dc1a3-c9eb-4364-b31b-951ecfc2641d/Screen%20Shot%202023-04-21%20at%205.25.06%20PM.png1682112330379"
+                    },
+                    "title": "Integrated development",
+                    "video": ""
+                }
+            ],
+            "subheading": "Primo combines delightful content management with the power of modern development",
+            "_meta": {
+                "id": "ddd59217-6212-4e8b-84ad-036c1b5285d5",
+                "symbol": "93383b37-678e-4259-8828-f3348f12b73c",
+                "created_at": "2023-03-27T17:01:46.348478+00:00"
+            }
+        },
+        {
+            "items": [
+                {
+                    "icon": "ph:files-fill",
+                    "title": "Static Sites",
+                    "description": {
+                        "html": "<p>Your websites are secure, scalable to millions, and fast-loading - no fancy plugins necessary.</p>",
+                        "markdown": "Your websites are secure, scalable to millions, and fast-loading - no fancy plugins necessary.\n"
+                    }
+                },
+                {
+                    "icon": "mdi:users-group",
+                    "title": "Real-time collaboration",
+                    "description": {
+                        "html": "<p>Invite any number of collaborators as developers or content editors and edit your pages together. </p>",
+                        "markdown": "Invite any number of collaborators as developers or content editors and edit your pages together. "
+                    }
+                },
+                {
+                    "icon": "gg:website",
+                    "title": "Multisite to the max",
+                    "description": {
+                        "html": "<h1>Create an unlimited number of websites on a single server and start new sites in seconds.</h1>",
+                        "markdown": "# Create an unlimited number of websites on a single server and start new sites in seconds.\n\n"
+                    }
+                },
+                {
+                    "icon": "mdi:github",
+                    "title": "Deploy to Github",
+                    "description": {
+                        "html": "<h1 id=\"deployyoursitetoagithubrepositoryfromthereyoucaneasilydeployittoanywebhost\">Deploy your site to a Github repository. From there you can easily deploy it to any web host.</h1>",
+                        "markdown": "# Deploy your site to a Github repository. From there you can easily deploy it to any web host.\n\n"
+                    }
+                },
+                {
+                    "icon": "gg:website",
+                    "title": "\nThemes\n",
+                    "description": {
+                        "html": "<p>Hit the ground running with one of Primo's free themes and customize it in seconds using CSS variables.</p>",
+                        "markdown": "Hit the ground running with one of Primo's free themes and customize it in seconds using CSS variables.\n\n"
+                    }
+                },
+                {
+                    "icon": "solar:library-bold",
+                    "title": "Primo Library",
+                    "description": {
+                        "html": "<p>Access a growing library of pre-built blocks which automatically adapt to your site's design.</p>",
+                        "markdown": "Access a growing library of pre-built blocks which automatically adapt to your site's design.\n\n"
+                    }
+                },
+                {
+                    "icon": "file-icons:svelte",
+                    "title": "Build with Svelte",
+                    "description": {
+                        "html": "<p>All of your page blocks are written with Svelte - so they're reactive, their styles are encapsulated, and they're basically just HTML, CSS, and JavaScript. </p>",
+                        "markdown": "All of your page blocks are written with Svelte - so they're reactive, their styles are encapsulated, and they're basically just HTML, CSS, and JavaScript. "
+                    }
+                },
+                {
+                    "icon": "fluent-mdl2:locale-language",
+                    "title": "Internationalization",
+                    "description": {
+                        "html": "<p>Easily manage content for over 60 locales and build each as a static version so you can rule your SEO.</p>",
+                        "markdown": "Easily manage content for over 60 locales and build each as a static version so you can rule your SEO."
+                    }
+                },
+                {
+                    "icon": "game-icons:guillotine",
+                    "title": "Headless / REST API",
+                    "description": {
+                        "html": "<p>Fetch your site's content directly from your server using a REST API. Currently in Alpha. </p>",
+                        "markdown": "Fetch your site's content directly from your server using a REST API. Currently in Alpha. "
+                    }
+                },
+                {
+                    "icon": "lucide:file-json",
+                    "title": "JSON Snapshots",
+                    "description": {
+                        "html": "<p>Every time you publish, a simple JSON file gets deployed with your site that can be used to restore your site in an instant. </p>",
+                        "markdown": "Every time you publish, a simple JSON file gets deployed with your site that can be used to restore your site in an instant. \n"
+                    }
+                },
+                {
+                    "icon": "fa6-brands:css3",
+                    "title": "Nested CSS & Autoprefixer",
+                    "description": {
+                        "html": "<p>Primo uses PostCSS under the hood to enable nested styles and auto-prefix your CSS so it stays neat and tidy. </p>",
+                        "markdown": "Primo uses PostCSS under the hood to enable nested styles and auto-prefix your CSS so it stays neat and tidy. "
+                    }
+                },
+                {
+                    "icon": "simple-icons:javascript",
+                    "title": "Import JS libraries",
+                    "description": {
+                        "html": "<p>Import JavaScript libraries without needing to install them first. Primo bundles your dependencies with Rollup, so you don't have to worry about things breaking in production.</p>",
+                        "markdown": "Import JavaScript libraries without needing to install them first. Primo bundles your dependencies with Rollup, so you don't have to worry about things breaking in production."
+                    }
+                }
+            ],
+            "heading": "",
+            "subheading": "",
+            "_meta": {
+                "id": "d294b81b-78a4-4285-8347-c9d078edaec9",
+                "symbol": "e2322348-b143-469a-bbbe-ed8c27810e43",
+                "created_at": "2023-04-06T23:22:47.285435+00:00"
+            }
+        },
+        {
+            "body": {
+                "html": "<h1>Set up your own Primo server in under 5 minutes and manage unlimited sites with ease. Don't want to manage your own server? Try Primo Cloud for free.</h1>",
+                "markdown": "# Set up your own Primo server in under 5 minutes and manage unlimited sites with ease. Don't want to manage your own server? Try Primo Cloud for free.\n\n"
+            },
+            "heading": "Spin up speedy, secure, scalable static sites in seconds.",
+            "_meta": {
+                "id": "3d86c4f7-4434-4f99-895d-3026a66b134b",
+                "symbol": "0f9d5c53-5957-450d-a138-2816c937e04e",
+                "created_at": "2023-06-22T18:04:31.027306+00:00"
+            }
+        },
+        {
+            "items": [
+                {
+                    "title": "Is Primo open-core? VC-funded open source? Side project?",
+                    "description": {
+                        "html": "<p>Primo is <a href=\"https://github.com/primocms/primo/blob/master/LICENSE\">MIT licensed</a>,  under full-time development, and is in the process of moving under a nonprofit organization. Any funds generated from White Glove and Cloud will go towards funding further development, in the same vein as <a href=\"https://ghost.org\">Ghost CMS</a>.</p>",
+                        "markdown": "Primo is [MIT licensed](https://github.com/primocms/primo/blob/master/LICENSE),  under full-time development, and is in the process of moving under a nonprofit organization. Any funds generated from White Glove and Cloud will go towards funding further development, in the same vein as [Ghost CMS](https://ghost.org)."
+                    }
+                },
+                {
+                    "title": "How does this compare to WordPress?",
+                    "description": {
+                        "html": "<p>WordPress has been around for a while, but over that time it's built up a lot of baggage. Primo takes a simpler approach that's easier to spin up &amp; manage. Primo lets you manage any number of sites from a single server (instead of needing to run a server per website), builds static sites by default, and gives you direct access to your site's code.</p>",
+                        "markdown": "WordPress has been around for a while, but over that time it's built up a lot of baggage. Primo takes a simpler approach that's easier to spin up & manage. Primo lets you manage any number of sites from a single server (instead of needing to run a server per website), builds static sites by default, and gives you direct access to your site's code."
+                    }
+                },
+                {
+                    "title": "Can I use Primo with SvelteKit? Next, Nuxt, Astro?",
+                    "description": {
+                        "html": "<p>You can <a href=\"https://docs.primocms.org/guides/how-to-use-primo-headless\">use Primo headless</a> by consuming your Primo site's data from your favorite framework, or <a href=\"https://docs.primocms.org/guides/how-to-serve-primo-pages-from-sveltekit\">serve generated Primo pages from SvelteKit</a>. </p>",
+                        "markdown": "You can [use Primo headless](https://docs.primocms.org/guides/how-to-use-primo-headless) by consuming your Primo site's data from your favorite framework, or [serve generated Primo pages from SvelteKit](https://docs.primocms.org/guides/how-to-serve-primo-pages-from-sveltekit). "
+                    }
+                },
+                {
+                    "title": "How far along is Primo's development?",
+                    "description": {
+                        "html": "<p>Primo has been in full-time development for three years. It entered the public beta of version 2 in June of 2023 and is stable enough for personal projects. </p>",
+                        "markdown": "Primo has been in full-time development for three years. It entered the public beta of version 2 in June of 2023 and is stable enough for personal projects. "
+                    }
+                },
+                {
+                    "title": "How much will it cost to host or use Primo?",
+                    "description": {
+                        "html": "<p>You can <a href=\"https://docs.primocms.org/getting-started\">host your own Primo server</a> on a modern web host like <a href=\"https://vercel.com\">Vercel</a>, <a href=\"https://netlify.com\">Netlify</a>, or <a href=\"https://render.com\">Render</a>, use <a href=\"https://supabase.com\">Supabase</a> as backend, and deploy your sites to <a href=\"https://github.com\">Github</a> and the same web host. Since all those services have generous free tiers, you can publish a whole lot of sites and only pay for the domain names.</p>",
+                        "markdown": "You can [host your own Primo server](https://docs.primocms.org/getting-started) on a modern web host like [Vercel](https://vercel.com), [Netlify](https://netlify.com), or [Render](https://render.com), use [Supabase](https://supabase.com) as backend, and deploy your sites to [Github](https://github.com) and the same web host. Since all those services have generous free tiers, you can publish a whole lot of sites and only pay for the domain names."
+                    }
+                }
+            ],
+            "heading": "Frequently Asked Questions",
+            "_meta": {
+                "id": "dbc84ff9-1e6e-45e9-934e-beca58e0fe0f",
+                "symbol": "92a6c744-be44-463b-bf85-935dfae6de26",
+                "created_at": "2023-06-22T07:09:11.570142+00:00"
+            }
+        },
+        {
+            "signup_form": {
+                "heading": "Hear about future updates, including:",
+                "subheading": {
+                    "html": "<ul><li><p><strong>Using it headless</strong> alongside SvelteKit, NextJS, etc.</p></li><li><p><strong>Design fields</strong> to give content editors predefined style options.</p></li><li><p><strong>Cloud functions</strong> for writing backend code from Primo.</p></li></ul>",
+                    "markdown": "- **Using it headless** alongside SvelteKit, NextJS, etc.\n\n- **Design fields** to give content editors predefined style options.\n\n- **Cloud functions** for writing backend code from Primo.\n\n\n<!-- -->\n\n"
+                }
+            },
+            "_meta": {
+                "id": "b18b744b-92ba-4bf9-96fd-4d86c0a842b8",
+                "symbol": "4348907b-557a-407f-9515-5c499ff9d9c7",
+                "created_at": "2023-03-27T16:54:03.548469+00:00"
+            }
+        },
+        {
+            "_meta": {
+                "id": "48a7ea62-7557-43b8-bf58-34e02c928c5e",
+                "symbol": "33efa84b-c7ae-4440-b39f-c439d2d344ab",
+                "created_at": "2023-03-27T15:46:21.34312+00:00"
+            }
+        }
+    ]
+}
