@@ -1,0 +1,349 @@
+{
+    "site": {
+        "title": "Primo",
+        "favicon": {
+            "alt": "",
+            "src": "https://static.ameto.io/favicon.png",
+            "url": "https://static.ameto.io/favicon.png",
+            "size": 8
+        },
+        "description": "Visual CMS editor.",
+        "_meta": {
+            "id": "1a9f29e7-b37e-4a46-adcf-49d3b854ed8a",
+            "name": "Primo Landing Page",
+            "url": "primo-landing-page",
+            "created_at": "2023-03-27T14:25:39.819961+00:00"
+        }
+    },
+    "page": {
+        "_meta": {
+            "id": "4872492a-4b96-4a09-87d0-6564c7da5030",
+            "name": "Themes",
+            "url": "themes",
+            "created_at": "2023-04-09T21:51:32.693064+00:00",
+            "subpages": []
+        }
+    },
+    "sections": [
+        {
+            "_meta": {
+                "id": "39970d76-774c-405e-8204-ffb9122cbf29",
+                "symbol": "c3d5f2ea-9215-46f4-a681-66083693301b",
+                "created_at": "2023-04-12T16:28:06.274431+00:00"
+            }
+        },
+        {
+            "packs": [],
+            "detail": {
+                "faq": [],
+                "features": [],
+                "included": []
+            },
+            "heading": "Themes",
+            "complete": {
+                "heading": "Enim culpa elit",
+                "subheading": "Anim sunt fugiat",
+                "instructions": {
+                    "html": "<h1 id=\"thisissomemarkdown\">This is some markdown</h1>",
+                    "markdown": "# This is some markdown"
+                }
+            },
+            "templates": [
+                {
+                    "id": "",
+                    "name": "Minimal",
+                    "repo": "theme-minimal",
+                    "price": "0",
+                    "price_id": "",
+                    "available": true,
+                    "description": {
+                        "html": "",
+                        "markdown": ""
+                    },
+                    "preview_url": "https://static.ameto.io/themes/theme-minimal",
+                    "screenshots": {
+                        "mobile": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
+                            "size": 67
+                        },
+                        "tablet": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
+                            "size": 66
+                        },
+                        "desktop": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/minimal.png",
+                            "size": 73
+                        }
+                    },
+                    "template_id": ""
+                },
+                {
+                    "id": "",
+                    "name": "Blog",
+                    "repo": "theme-blog",
+                    "price": "0",
+                    "price_id": "",
+                    "available": true,
+                    "description": {
+                        "html": "",
+                        "markdown": ""
+                    },
+                    "preview_url": "https://static.ameto.io/themes/theme-blog",
+                    "screenshots": {
+                        "mobile": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
+                            "size": 57
+                        },
+                        "tablet": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
+                            "size": 232
+                        },
+                        "desktop": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/blog.png",
+                            "size": 253
+                        }
+                    },
+                    "template_id": ""
+                },
+                {
+                    "id": "",
+                    "name": "Startup",
+                    "repo": "Theme-Startup",
+                    "price": "0",
+                    "price_id": "",
+                    "available": true,
+                    "description": {
+                        "html": "<p>Use this theme to create a compelling landing page for your tech startup, product or service.</p>",
+                        "markdown": "Use this theme to create a compelling landing page for your tech startup, product or service."
+                    },
+                    "preview_url": "https://static.ameto.io/themes/Theme-Startup",
+                    "screenshots": {
+                        "mobile": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
+                            "size": 105
+                        },
+                        "tablet": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
+                            "size": 87
+                        },
+                        "desktop": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/startup.png",
+                            "size": 156
+                        }
+                    },
+                    "template_id": "startup-theme"
+                },
+                {
+                    "id": "",
+                    "name": "Nonprofit",
+                    "repo": "Theme-nonprofit",
+                    "price": "0",
+                    "price_id": "",
+                    "available": true,
+                    "description": {
+                        "html": "<p>This theme is designed for organizations, projects, or initiatives to highlight their mission and to showcase their programs and activities. It also includes a blog for sharing articles and updates related to their cause. With this theme you can create a professional, modern website that helps you engage with your audience and support your mission.</p>",
+                        "markdown": "This theme is designed for organizations, projects, or initiatives to highlight their mission and to showcase their programs and activities. It also includes a blog for sharing articles and updates related to their cause. With this theme you can create a professional, modern website that helps you engage with your audience and support your mission.\n\n"
+                    },
+                    "preview_url": "https://static.ameto.io/themes/Theme-nonprofit",
+                    "screenshots": {
+                        "mobile": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
+                            "size": 500
+                        },
+                        "tablet": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
+                            "size": 461
+                        },
+                        "desktop": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/nonprofit.png",
+                            "size": 509
+                        }
+                    },
+                    "template_id": ""
+                },
+                {
+                    "id": "",
+                    "name": "Design Agency",
+                    "repo": "theme-agency",
+                    "price": "0",
+                    "price_id": "",
+                    "available": true,
+                    "description": {
+                        "html": "<p>This theme was designed for agencies and freelancers to share their services and attract new clients. It includes 5 unique pages to communicate your agency's brand and work quality.</p>",
+                        "markdown": "This theme was designed for agencies and freelancers to share their services and attract new clients. It includes 5 unique pages to communicate your agency's brand and work quality."
+                    },
+                    "preview_url": "https://static.ameto.io/themes/theme-agency",
+                    "screenshots": {
+                        "mobile": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
+                            "size": 264
+                        },
+                        "tablet": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
+                            "size": 454
+                        },
+                        "desktop": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/agency.png",
+                            "size": 502
+                        }
+                    },
+                    "template_id": ""
+                },
+                {
+                    "id": "",
+                    "name": "Portfolio",
+                    "repo": "theme-portfolio",
+                    "price": "0",
+                    "price_id": "",
+                    "available": true,
+                    "description": {
+                        "html": "<p>Showcase your projects and contact information with this minimal one-pager.</p>",
+                        "markdown": "Showcase your projects and contact information with this minimal one-pager."
+                    },
+                    "preview_url": "https://static.ameto.io/themes/theme-portfolio",
+                    "screenshots": {
+                        "mobile": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
+                            "size": 67
+                        },
+                        "tablet": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
+                            "size": 69
+                        },
+                        "desktop": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/portfolio.png",
+                            "size": 89
+                        }
+                    },
+                    "template_id": ""
+                },
+                {
+                    "id": "",
+                    "name": "Bakery",
+                    "repo": "theme-bakery",
+                    "price": "0",
+                    "price_id": "",
+                    "available": true,
+                    "description": {
+                        "html": "<p>This theme is ideal for for bakeries, cake shops, and cafes that want to promote their store and products. Some of the components inside include a contact form, a high quality design system you can customize to your brand, eye-catching graphics, and a gallery/testimonials slider.</p>",
+                        "markdown": "This theme is ideal for for bakeries, cake shops, and cafes that want to promote their store and products. Some of the components inside include a contact form, a high quality design system you can customize to your brand, eye-catching graphics, and a gallery/testimonials slider."
+                    },
+                    "preview_url": "https://static.ameto.io/themes/theme-bakery",
+                    "screenshots": {
+                        "mobile": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
+                            "size": 238
+                        },
+                        "tablet": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
+                            "size": 420
+                        },
+                        "desktop": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/bakery.png",
+                            "size": 311
+                        }
+                    },
+                    "template_id": ""
+                },
+                {
+                    "id": "",
+                    "name": "Finance Service",
+                    "repo": "Theme-Finance",
+                    "price": "0",
+                    "price_id": "",
+                    "available": true,
+                    "description": {
+                        "html": "",
+                        "markdown": ""
+                    },
+                    "preview_url": "https://static.ameto.io/themes/Theme-Finance",
+                    "screenshots": {
+                        "mobile": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
+                            "size": 95
+                        },
+                        "tablet": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
+                            "size": 449
+                        },
+                        "desktop": {
+                            "alt": "",
+                            "src": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
+                            "url": "https://raw.githubusercontent.com/ictserv/prepo/main/themes/preview/finance.png",
+                            "size": 475
+                        }
+                    },
+                    "template_id": ""
+                }
+            ],
+            "components": [],
+            "templates_subheading": "Every site in Primo can be instantly saved and duplicated from a single JSON file & Primo blocks can be used across all your sites.",
+            "components_subheading": "Qui est pariatur",
+            "_meta": {
+                "id": "ff5c3e56-690b-4220-abe9-9f02a74e1599",
+                "symbol": "6c7a7d41-3a81-4e93-a869-006dccb6322e",
+                "created_at": "2023-04-20T02:57:32.940095+00:00"
+            }
+        },
+        {
+            "_meta": {
+                "id": "20a47c0d-3dfc-4780-8a11-4cca16928675",
+                "symbol": "4348907b-557a-407f-9515-5c499ff9d9c7",
+                "created_at": "2023-04-12T16:27:08.505856+00:00"
+            }
+        },
+        {
+            "_meta": {
+                "id": "7c589019-74fd-4af6-90be-d6d63ccb5712",
+                "symbol": "33efa84b-c7ae-4440-b39f-c439d2d344ab",
+                "created_at": "2023-04-20T02:58:30.52287+00:00"
+            }
+        }
+    ]
+}
